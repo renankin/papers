@@ -1,7 +1,6 @@
 # Author
 John Smith, University of Elsewhere
 Renan Kindermann, University of Manchester
-Arturo Jimenez, University of Manchester
 
 # Title
 Biomass burning emissions over West Africa
