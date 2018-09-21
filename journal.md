@@ -5,6 +5,9 @@ John Smith
 # Title
 Measurement-model comparison of biomass burning emissions over West Africa
 
+# Abstract
+Always write this last, because it's the most difficult to write. Summarise the best bits so people want to read on.
+
 # Introduction
 JOe Bloggs et al (2004) already did some measurements, but haven't completed science yet, hence our new measurements giving new insight and pushing the boundaries of science. This is another citation from Einstein.
 
