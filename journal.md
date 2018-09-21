@@ -17,6 +17,8 @@ John has an awesome box model that he's using to simulate particle growth downwi
 We used an AMS to measure particle mass and chemical composition.
 The AMS is described in Allen et al 2004.
 
+# Results
+The simulation was able to reproduce the observed particle growth, so it's due to coagulation rather than condensation.
+
 # Conclusion
 We found out some stuff, but give us more money to find out more stuff.
-
