@@ -1,6 +1,7 @@
 # Author
 John Smith, University of Elsewhere
 Renan Kindermann, University of Manchester
+Arturo Jimenez, University of Manchester
 
 # Title
 Measurement-model comparison of biomass burning emissions over West Africa
