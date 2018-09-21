@@ -1,6 +1,6 @@
 # Author
-Renan Kindermann
 John Smith
+Renan Kindermann
 
 # Title
 Measurement-model comparison of biomass burning emissions over West Africa
