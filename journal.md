@@ -25,3 +25,7 @@ We found out some stuff, but give us more money to find out more stuff.
 
 # Figures
 This is where the figures go in a draft.
+
+# Acknowledgments 
+I thank my supervisor for wise insights and guidance.
+We also thank the EU funding body. RIP :(
