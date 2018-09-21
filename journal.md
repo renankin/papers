@@ -4,7 +4,7 @@ Renan Kindermann, University of Manchester
 Arturo Jimenez, University of Manchester
 
 # Title
-Biomass burning emissions over West Africa
+Measurement-model comparison of biomass burning emissions over West Africa
 
 # Abstract
 Always write this last, because it's the most difficult to write. Summarise the best bits so people want to read on.
