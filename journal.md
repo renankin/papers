@@ -13,3 +13,7 @@ Haywood et al (1999) were the pioneers of this type of measurement.
 # Simulations
 John has an awesome box model that he's using to simulate particle growth downwind of the fires.
 
+# Methodology
+We used an AMS to measure particle mass and chemical composition.
+The AMS is described in Allen et al 2004.
+
